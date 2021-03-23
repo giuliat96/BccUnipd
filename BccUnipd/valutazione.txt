@@ -1,0 +1,31 @@
+Feedback Progetto di Programmazione ad Oggetti
+Studente: Giulia Terrani
+
+Vincoli obbligatori
++ Soddisfatti
+
+
+Orientamento ad oggetti
++ Incapsulamento
++ Modularità (modello logico e la GUI sono separati)
++ Uso appropriato del polimorfismo
+
+
+Funzionalità
++ Molte funzionalità specifiche legate al tema scelto
+- Migliorabile con funzionalità come l'ordinamento
+
+
+GUI
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Robusta, gestisce ridimensionamento
+- Migliorabile con l'uso di elementi grafici o stili
+
+
+Relazione
++ Adeguata
+
+
+Suggerimenti non collegati alla valutazione
+Nessuno.
